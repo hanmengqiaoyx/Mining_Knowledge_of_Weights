@@ -1,0 +1,1 @@
+Please put the datasets into the Mining_Knowledge_of_Weights file and python train.py run each model. Among them, the MiniImageNet dataset needs to be processed by the file 'Processing_MiniImageNet' as a training and test dataset.
